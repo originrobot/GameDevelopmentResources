@@ -6,6 +6,8 @@
 3. [Overwatch Gameplay Architecture and Netcode](https://www.youtube.com/watch?v=W3aieHjyNvw)
 4. [Networking for Physics Programmers by Glenn Fiedler](https://www.youtube.com/watch?v=Z9X4lysFr64)
 5. [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf)
+6. [World of Warcraft's Network Serialization and Routing](https://www.youtube.com/watch?v=hCsEHYwjqVE)
+7. [Networking Scripted Weapons and Abilities in Overwatch](https://www.youtube.com/watch?v=ScyZjcjTlA4&list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW&index=17)
 
 ## Rendering
 1. [UE4 Threaded Rendering Document](https://docs.unrealengine.com/en-US/Programming/Rendering/ThreadedRendering/index.html)

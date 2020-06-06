@@ -14,3 +14,6 @@
 
 ## Physics
 1. [Valve's Physics for Game Programmers](https://www.youtube.com/watch?v=1RphLzpQiJY)
+
+## Gameplay Ability System
+1. [Using the Gameplay Ability System | Unreal Fest Europe 2019 | Unreal Engine](https://www.youtube.com/watch?v=_713CSOWkTU)
